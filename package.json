@@ -1,6 +1,6 @@
 {
-  "name": "solid-icons",
-  "version": "1.0.2",
+  "name": "@aminya/solid-icons",
+  "version": "2.0.7",
   "description": "Modern solution for use icons on SolidJS",
   "author": "Ignacio Zsabo",
   "license": "MIT",
