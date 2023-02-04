@@ -40,19 +40,19 @@ Modern solution for use icons on SolidJS
 ### Yarn
 
 ```bash
-yarn add solid-icons
+yarn add @aminya/solid-icons
 ```
 
 ### NPM
 
 ```bash
-npm install solid-icons --save
+npm install @aminya/solid-icons --save
 ```
 
 ## Usage
 
 ```jsx
-import { SiJavascript } from "solid-icons/si/SiJavascript";
+import { SiJavascript } from "@aminya/solid-icons/si/SiJavascript";
 
 <SiJavascript size={24} color="#2c4f7c" />;
 ```

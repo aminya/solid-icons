@@ -1,8 +1,8 @@
 {
-  "name": "solid-icons",
-  "version": "1.0.2",
+  "name": "@aminya/solid-icons",
+  "version": "2.0.9",
   "description": "Modern solution for use icons on SolidJS",
-  "author": "Ignacio Zsabo",
+  "author": "Ignacio Zsabo, Amin Yahyaabadi",
   "license": "MIT",
   "sideEffects": false,
   "main": "./lib/index.js",
@@ -66,10 +66,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/x64Bits/solid-icons.git"
+    "url": "https://github.com/aminya/solid-icons.git"
   },
   "bugs": {
-    "url": "https://github.com/x64Bits/solid-icons/issues"
+    "url": "https://github.com/aminya/solid-icons/issues"
   },
   "homepage": "https://solid-icons.vercel.app"
 }
